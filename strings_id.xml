@@ -7,56 +7,56 @@
 	
 	<string name="dialog_msg_billing_cannot_connect">aWallet tidak dapat terhubung ke Google Play. 
 	    Versi Google Play Anda mungkin versi yang lama.
-	    Anda dapat melanjutkan menggunakan aWallet tapi Anda tida dapat melakukan upgrade untuk mendapat semua fitur.\n\nFitur-fitur berikut ditiadakan:\n%s</string>	
-	<string name="dialog_msg_billing_not_supported">The Google Play billing service is not available at this time. 
-	    You can continue to use this app but you won\'t be able to make purchases.\n\nFollowing features are disabled:\n%s</string>
-	<string name="dialog_msg_buy_pro_features">Upgrade to get all features forever:\n\n%s</string>
-    <string name="dialog_msg_copy_hidden_to_clipboard">Any other app on your phone can read from Clipboard!</string>
-	<string name="dialog_msg_csv_empty_header">There is header column with empty text in:\n%s</string>
-	<string name="dialog_msg_csv_empty_first_column">There is row with first empty column in \'%s\'.</string>
-	<string name="dialog_msg_csv_import_info">Will import %d CSV files� No data will be lost.</string>
-	<string name="dialog_msg_csv_import_info_overwrite">Will import %1$d CSV files�\n\n%2$s containing %3$s will be overwritten!!!\n\nBe sure to have data backup for the case you lose some or all data.</string>
-	<string name="dialog_msg_csv_imported">Imported %1$d Categories from:\n\n%2$s</string>
-	<string name="dialog_msg_csv_invalid_line">All rows of \'%1$s\' must have %2$d columns (the same number as the header). There is row with %3$d columns.</string>
-	<string name="dialog_msg_csv_io_error">Error accessing file system.</string>
-	<string name="dialog_msg_csv_io_error_file">Error accessing file:\n%s</string>
-	<string name="dialog_msg_csv_max_categories">Maximum number of categories is %1$d.\nFile \'%2$s\' contains %3$d categories.</string>
-	<string name="dialog_msg_csv_max_entries">Maximum number of entries is %1$d.\nFile \'%2$s\' contains %3$d entries.</string>
-	<string name="dialog_msg_csv_max_fields">Maximum number of fields is %1$d.\nFile \'%2$s\' contains %3$d fields.</string>
-	<string name="dialog_msg_csv_max_header_length">Maximum length of field name is %1$d.\nFile \'%2$s\' contains field name with length %3$d.</string>
-	<string name="dialog_msg_csv_max_value_length">Maximum length of field value is %1$d.\nFile \'%2$s\' contains value with length %3$d.</string>
-	<string name="dialog_msg_csv_missing_header">There is no CSV header in:\n%s</string>
-	<string name="dialog_msg_csv_no_files">There are no CSV files in:\n%s</string>
+	    Anda dapat melanjutkan menggunakan aWallet tapi Anda tidak dapat melakukan upgrade untuk mendapat semua fitur.\n\nFitur-fitur berikut ditiadakan:\n%s</string>
+	<string name="dialog_msg_billing_not_supported">Layanan billing Google Play tidak tersedia saat ini. 
+	    Anda dapat melanjutkan menggunakan aplikasi tapi Anda tidak bisa melakukan pemesanan.\n\nFitur-fitur berikut ditiadakan:\n%s</string>
+	<string name="dialog_msg_buy_pro_features">Upgrade untuk mendapatkan semua fitur:\n\n%s</string>
+	<string name="dialog_msg_copy_hidden_to_clipboard">Aplikasi lain di handphone Anda dapat membaca dari Clipboard!</string>
+	<string name="dialog_msg_csv_empty_header">Ada kolom tajuk dengan teks kosong di:\n%s</string>
+	<string name="dialog_msg_csv_empty_first_column">Ada baris dengan kolom pertama yang kosong di \'%s\'.</string>
+	<string name="dialog_msg_csv_import_info">Akan mengimpor %d berkas CSV� Tidak akan ada data yang hilang.</string>
+	<string name="dialog_msg_csv_import_info_overwrite">Akan mengimpor %1$d berkas CSV �\n\n%2$s yang mengandung %3$s akan ditimpa!!!\n\nPastikan memiliki data cadangan untuk berjaga-jaga bila ada sebagian data yang hilang.</string>
+	<string name="dialog_msg_csv_imported">Telah mengimpor %1$d Kategori dari:\n\n%2$s</string>
+	<string name="dialog_msg_csv_invalid_line">Semua baris \'%1$s\' harus memiliki %2$d kolom (jumlah yang sama dengan tajuk). Ada baris dengan %3$d kolom.</string>
+	<string name="dialog_msg_csv_io_error">Galat saat mengakses sistem berkas.</string>
+	<string name="dialog_msg_csv_io_error_file">Galat saat mengakses berkas:\n%s</string>
+	<string name="dialog_msg_csv_max_categories">Maksimum kategori adalah %1$d.\nBerkas \'%2$s\' mengandung %3$d kategori.</string>
+	<string name="dialog_msg_csv_max_entries">Maksimum entri adalah %1$d.\nBerkas \'%2$s\' mengandung %3$d entri.</string>
+	<string name="dialog_msg_csv_max_fields">Maksimum ruas adalah %1$d.\nBerkas \'%2$s\' mengandung %3$d ruas (field).</string>
+	<string name="dialog_msg_csv_max_header_length">Panjang maksimum nama ruas/field adalah %1$d.\nBerkas \'%2$s\' mengandung nama ruas dengan panjang %3$d.</string>
+	<string name="dialog_msg_csv_max_value_length">Panjang maksimum nilai ruas adalah %1$d.\nBerkas \'%2$s\' mengandung nilai dengan panjang %3$d.</string>
+	<string name="dialog_msg_csv_missing_header">Tidak ada tajuk CSV pada:\n%s</string>
+	<string name="dialog_msg_csv_no_files">Tidak ada berkas CSV pada:\n%s</string>
 	
-	<string name="dialog_title_billing_cannot_connect_title">Can\'t connect to Google Play</string>
-	<string name="dialog_title_billing_not_supported">Billing not supported</string>
-	<string name="dialog_title_copy_hidden_to_clipboard">Copy hidden Field to Clipboard?</string>
-	<string name="dialog_title_csv_format">Wrong CSV format</string>
-	<string name="dialog_title_csv_import">CSV Import</string>
-	<string name="dialog_title_csv_io_error">Error accessing files</string>
-	<string name="dialog_title_csv_limits">Limits exceeded</string>
+	<string name="dialog_title_billing_cannot_connect_title">Tidak dapat tersambung ke Google Play</string>
+	<string name="dialog_title_billing_not_supported">Billing tidak didukung</string>
+	<string name="dialog_title_copy_hidden_to_clipboard">Salin ruas tersembunyi ke Clipboard?</string>
+	<string name="dialog_title_csv_format">Format CSV salah</string>
+	<string name="dialog_title_csv_import">Impor CSV</string>
+	<string name="dialog_title_csv_io_error">Galat saat mengakses berkas</string>
+	<string name="dialog_title_csv_limits">Limit terlewati</string>
 	<string name="dialog_title_not_licensed">Upgrade aWallet</string>
 	
-	<string name="lbl_length">Length:</string>
-	<string name="lbl_on">ON</string>
-	<string name="lbl_off">OFF</string>
-	<string name="lbl_menu_import_csv">Import data from CSV</string>
+	<string name="lbl_length">Panjang:</string>
+	<string name="lbl_on">HIDUP</string>
+	<string name="lbl_off">MATI</string>
+	<string name="lbl_menu_import_csv">Impor data dari CSV</string>
 	<string name="lbl_refresh">Refresh</string>
-	<string name="lbl_use">Use</string>
+	<string name="lbl_use">Gunakan</string>
 	
-	<string name="msg_pro_features">- CSV Import\n- Password Generator\n- and also all Pro features added in future aWallet versions</string>
-	<string name="msg_rate_in_google_play">Rate in Google Play</string>
+	<string name="msg_pro_features">- Impor CSV\n- Password Generator\n- dan juga semua fitur-fitur Pro ditambahkan pada versi aWallet yang akan datang</string>
+	<string name="msg_rate_in_google_play">Beri nilai di Google Play</string>
 	
 	<string name="title_password_generator">Password Generator</string>
 	
 	<plurals name="category">
-		<item quantity="one">%d Category</item>
-		<item quantity="other">%d Categories</item>
+		<item quantity="one">%d Kategori</item>
+		<item quantity="other">%d Kategori</item>
 	</plurals>
 	
 	<plurals name="entry">
-		<item quantity="one">%d Entry</item>
-		<item quantity="other">%d Entries</item>
+		<item quantity="one">%d Entri</item>
+		<item quantity="other">%d Entri</item>
 	</plurals>
 
 </resources>
