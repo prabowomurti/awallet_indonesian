@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="btn_copy">Salin</string>
+	<string name="btn_import_csv">Impor CSV</string>
+	<string name="btn_upgrade">Upgrade</string>
+	
+	<string name="dialog_msg_billing_cannot_connect">aWallet tidak dapat terhubung ke Google Play. 
+	    Versi Google Play Anda mungkin versi yang lama.
+	    Anda dapat melanjutkan menggunakan aWallet tapi Anda tida dapat melakukan upgrade untuk mendapat semua fitur.\n\nFitur-fitur berikut ditiadakan:\n%s</string>	
+	<string name="dialog_msg_billing_not_supported">The Google Play billing service is not available at this time. 
+	    You can continue to use this app but you won\'t be able to make purchases.\n\nFollowing features are disabled:\n%s</string>
+	<string name="dialog_msg_buy_pro_features">Upgrade to get all features forever:\n\n%s</string>
+    <string name="dialog_msg_copy_hidden_to_clipboard">Any other app on your phone can read from Clipboard!</string>
+	<string name="dialog_msg_csv_empty_header">There is header column with empty text in:\n%s</string>
+	<string name="dialog_msg_csv_empty_first_column">There is row with first empty column in \'%s\'.</string>
+	<string name="dialog_msg_csv_import_info">Will import %d CSV files� No data will be lost.</string>
+	<string name="dialog_msg_csv_import_info_overwrite">Will import %1$d CSV files�\n\n%2$s containing %3$s will be overwritten!!!\n\nBe sure to have data backup for the case you lose some or all data.</string>
+	<string name="dialog_msg_csv_imported">Imported %1$d Categories from:\n\n%2$s</string>
+	<string name="dialog_msg_csv_invalid_line">All rows of \'%1$s\' must have %2$d columns (the same number as the header). There is row with %3$d columns.</string>
+	<string name="dialog_msg_csv_io_error">Error accessing file system.</string>
+	<string name="dialog_msg_csv_io_error_file">Error accessing file:\n%s</string>
+	<string name="dialog_msg_csv_max_categories">Maximum number of categories is %1$d.\nFile \'%2$s\' contains %3$d categories.</string>
+	<string name="dialog_msg_csv_max_entries">Maximum number of entries is %1$d.\nFile \'%2$s\' contains %3$d entries.</string>
+	<string name="dialog_msg_csv_max_fields">Maximum number of fields is %1$d.\nFile \'%2$s\' contains %3$d fields.</string>
+	<string name="dialog_msg_csv_max_header_length">Maximum length of field name is %1$d.\nFile \'%2$s\' contains field name with length %3$d.</string>
+	<string name="dialog_msg_csv_max_value_length">Maximum length of field value is %1$d.\nFile \'%2$s\' contains value with length %3$d.</string>
+	<string name="dialog_msg_csv_missing_header">There is no CSV header in:\n%s</string>
+	<string name="dialog_msg_csv_no_files">There are no CSV files in:\n%s</string>
+	
+	<string name="dialog_title_billing_cannot_connect_title">Can\'t connect to Google Play</string>
+	<string name="dialog_title_billing_not_supported">Billing not supported</string>
+	<string name="dialog_title_copy_hidden_to_clipboard">Copy hidden Field to Clipboard?</string>
+	<string name="dialog_title_csv_format">Wrong CSV format</string>
+	<string name="dialog_title_csv_import">CSV Import</string>
+	<string name="dialog_title_csv_io_error">Error accessing files</string>
+	<string name="dialog_title_csv_limits">Limits exceeded</string>
+	<string name="dialog_title_not_licensed">Upgrade aWallet</string>
+	
+	<string name="lbl_length">Length:</string>
+	<string name="lbl_on">ON</string>
+	<string name="lbl_off">OFF</string>
+	<string name="lbl_menu_import_csv">Import data from CSV</string>
+	<string name="lbl_refresh">Refresh</string>
+	<string name="lbl_use">Use</string>
+	
+	<string name="msg_pro_features">- CSV Import\n- Password Generator\n- and also all Pro features added in future aWallet versions</string>
+	<string name="msg_rate_in_google_play">Rate in Google Play</string>
+	
+	<string name="title_password_generator">Password Generator</string>
+	
+	<plurals name="category">
+		<item quantity="one">%d Category</item>
+		<item quantity="other">%d Categories</item>
+	</plurals>
+	
+	<plurals name="entry">
+		<item quantity="one">%d Entry</item>
+		<item quantity="other">%d Entries</item>
+	</plurals>
+
+</resources>
